@@ -1,9 +1,11 @@
 # linux-config-dotfiles
 
-refer for ideas - <https://www.reddit.com/r/unixporn>
+base os - fedora
 
 terminal -
+
 window manager -
-base os -
+
 font -
-nvim package manager -
+
+refer for ideas - <https://www.reddit.com/r/unixporn>
