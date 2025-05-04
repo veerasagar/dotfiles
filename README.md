@@ -2,10 +2,10 @@
 
 base os - fedora
 
-terminal -
+terminal - [kitty](https://idroot.us/install-kitty-terminal-fedora-41/)
 
-window manager -
+window manager - i3
 
-font -
+font - hack nerd
 
 refer for ideas - <https://www.reddit.com/r/unixporn>
